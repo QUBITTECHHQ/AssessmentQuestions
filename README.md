@@ -3,6 +3,8 @@
 
 All the questions for this assessment are located in the Software Developer Assessment Questions branch of this repository. Please navigate to this branch to find the detailed problem statements and choose any three questions to solve.
 
-Once you have completed your solutions, ensure they are pushed to your personal GitHub repository. You can reference this README file or any other documentation necessary to explain your implementation approach.
+Once you have completed your solutions, ensure they are pushed to your personal GitHub repository and share it with us via hello@qubittech.co.tz
 
-We look forward to reviewing your submissions!
+Feel free to submit any of your complete question separate.
+
+We look forward to reviewing your submissions and welcoming you to join our team✌️❤
