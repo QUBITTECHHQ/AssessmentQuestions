@@ -3,7 +3,7 @@
 
 All the questions for this assessment are located in the Software Developer Assessment Questions branch of this repository. Please navigate to this branch to find the detailed problem statements and choose any three questions to solve.
 
-For building the project, use Cmake build system and gcc complier. Also provide information to install extra libraries if used. 
+For building the project, use Cmake build system and gcc complier. Make sure the project builds for unix base system (linux/macos). Additionally, provide information to install extra libraries if used. 
 
 Once you have completed your solutions, ensure they are pushed to your personal GitHub repository and share it with us via hello@qubittech.co.tz
 
